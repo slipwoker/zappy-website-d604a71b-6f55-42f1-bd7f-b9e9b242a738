@@ -1,0 +1,112 @@
+# קרן סלע — Generative Engine Optimization Map
+
+> Keren Sela is an online education brand focused on selling courses to business owners. The brand identity, colors, and content are sourced from the existing website at kerensela.com, suggesting an established personal brand with a professional yet approachable tone tailored to entrepreneurs and business professionals.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את תוכניות החינוך המקוון המובילות לבעלי עסקים. קרן סלע מציעה קורסים מעשיים שיעזרו לך לצמוח, להצליח ולהגיע לתוצאות אמיתיות. הצטרף עכשיו!
+
+### אודות
+https://example.com/about
+קרן סלע היא מותג חינוך מקוון ייחודי שנבנה במיוחד ליזמים ובעלי עסקים. גלה את הסיפור, הערכים והחזון שמניעים אותנו ליצור קורסים שמביאים לשינוי אמיתי ומתמשך.
+
+### הצלחת תלמידים
+https://example.com/student-success
+ראה כיצד בעלי עסקים ויזמים שינו את חייהם המקצועיים בזכות תוכניות החינוך המקוון של קרן סלע. סיפורי הצלחה אמיתיים שיעוררו בך השראה ויוכיחו שגם אתה יכול להגיע לתוצאות.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על תוכניות החינוך המקוון של קרן סלע? צור קשר עכשיו וקבל את כל המידע שאתה צריך כדי לבחור את הקורס הנכון לעסק שלך ולהתחיל לצמוח כבר מחר.
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה שנרשמת לקורס
+
+### Courses
+https://example.com/courses
+Browse all available courses.
+
+### Course Category
+https://example.com/category/:slug
+Browse courses in this category.
+
+### Course Detail
+https://example.com/courses/:slug
+Course details and curriculum.
+
+### Lesson
+https://example.com/lesson/:lessonId
+Lesson player.
+
+### My Learning
+https://example.com/my-learning
+Your enrolled courses and progress.
+
+### Certificate
+https://example.com/certificate/:code
+Verify a course completion certificate.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קרן סלע
+Keren Sela is an online education brand focused on selling courses to business owners. The brand identity, colors, and content are sourced from the existing website at kerensela.com, suggesting an established personal brand with a professional yet approachable tone tailored to entrepreneurs and business professionals.
+
+## Target Audience
+- אנשים מפותחים
+- אנשים רוחניים
+- התפתחות אישית
+
+## Industry
+Online Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
