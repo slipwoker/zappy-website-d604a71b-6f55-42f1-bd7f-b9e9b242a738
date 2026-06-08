@@ -1,111 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/about</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/about</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/student-success</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/student-success</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/contact</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/cart</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/cart</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/checkout</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/checkout</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/login</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/login</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/account</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/account</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/order-success</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/order-success</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/courses</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/courses</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/category/:slug</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/category/:slug</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/courses/:slug</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/courses/:slug</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/lesson/:lessonId</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/lesson/:lessonId</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/my-learning</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/my-learning</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/certificate/:code</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/certificate/:code</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
-    <lastmod>2026-06-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.com/terms</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/privacy</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
-    <lastmod>2026-06-02</lastmod>
+    <loc>https://karensela.zappy5.app/terms</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://karensela.zappy5.app/accessibility</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://karensela.zappy5.app/courses</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://karensela.zappy5.app/courses/kvrs-htptchvt-ayshyt-9f34cw</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>

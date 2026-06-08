@@ -2,8 +2,21 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
   <channel>
     <title>קרן סלע</title>
-    <link>https://example.com</link>
+    <link>https://karensela.zappy5.app</link>
     <description>Product feed for קרן סלע</description>
-    <lastBuildDate>Tue, 02 Jun 2026 18:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:36:19 GMT</lastBuildDate>
+    <item>
+      <g:id>231cd0e4-502b-4f94-a60d-72564bbbe625</g:id>
+      <g:title>קורס התפתחות אישית</g:title>
+      <g:description>כאן יהיה תיאור קצר</g:description>
+      <g:link>https://karensela.zappy5.app/product/kvrs-htptchvt-ayshyt-9f34cw</g:link>
+      <g:image_link>https://karensela.zappy5.app/assets/product-1780918273837-plwf2u.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>690.00 ILS</g:price>
+      <g:sale_price>550.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>קרן סלע</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

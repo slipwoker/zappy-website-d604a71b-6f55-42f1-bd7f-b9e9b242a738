@@ -7,84 +7,91 @@
 ## Pages
 
 ### בית
-https://example.com
+https://karensela.zappy5.app
 גלה את תוכניות החינוך המקוון המובילות לבעלי עסקים. קרן סלע מציעה קורסים מעשיים שיעזרו לך לצמוח, להצליח ולהגיע לתוצאות אמיתיות. הצטרף עכשיו!
 
 ### אודות
-https://example.com/about
+https://karensela.zappy5.app/about
 קרן סלע היא מותג חינוך מקוון ייחודי שנבנה במיוחד ליזמים ובעלי עסקים. גלה את הסיפור, הערכים והחזון שמניעים אותנו ליצור קורסים שמביאים לשינוי אמיתי ומתמשך.
 
 ### הצלחת תלמידים
-https://example.com/student-success
+https://karensela.zappy5.app/student-success
 ראה כיצד בעלי עסקים ויזמים שינו את חייהם המקצועיים בזכות תוכניות החינוך המקוון של קרן סלע. סיפורי הצלחה אמיתיים שיעוררו בך השראה ויוכיחו שגם אתה יכול להגיע לתוצאות.
 
 ### צור קשר
-https://example.com/contact
+https://karensela.zappy5.app/contact
 יש לך שאלות על תוכניות החינוך המקוון של קרן סלע? צור קשר עכשיו וקבל את כל המידע שאתה צריך כדי לבחור את הקורס הנכון לעסק שלך ולהתחיל לצמוח כבר מחר.
 
 ### Cart
-https://example.com/cart
+https://karensela.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://karensela.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://karensela.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://karensela.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://karensela.zappy5.app/order-success
 תודה שנרשמת לקורס
 
 ### Courses
-https://example.com/courses
+https://karensela.zappy5.app/courses
 Browse all available courses.
 
 ### Course Category
-https://example.com/category/:slug
+https://karensela.zappy5.app/category/:slug
 Browse courses in this category.
 
 ### Course Detail
-https://example.com/courses/:slug
+https://karensela.zappy5.app/courses/:slug
 Course details and curriculum.
 
 ### Lesson
-https://example.com/lesson/:lessonId
+https://karensela.zappy5.app/lesson/:lessonId
 Lesson player.
 
 ### My Learning
-https://example.com/my-learning
+https://karensela.zappy5.app/my-learning
 Your enrolled courses and progress.
 
 ### Certificate
-https://example.com/certificate/:code
+https://karensela.zappy5.app/certificate/:code
 Verify a course completion certificate.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://karensela.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://karensela.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://karensela.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### קורס התפתחות אישית
+https://karensela.zappy5.app/product/kvrs-htptchvt-ayshyt-9f34cw
+- Price: 550.00 ILS (sale, was 690.00 ILS)
+- Availability: In stock
+- Description: כאן יהיה תיאור קצר
+- Image: https://karensela.zappy5.app/assets/product-1780918273837-plwf2u.webp
 
 ---
 
@@ -105,8 +112,8 @@ Online Education
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://karensela.zappy5.app/sitemap.xml
+- Robots: https://karensela.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://karensela.zappy5.app/llms-full.txt
+- Products (JSON): https://karensela.zappy5.app/products.json
+- Products (Google Merchant RSS): https://karensela.zappy5.app/product-feed.xml

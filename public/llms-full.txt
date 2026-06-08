@@ -2,13 +2,13 @@
 
 Keren Sela is an online education brand focused on selling courses to business owners. The brand identity, colors, and content are sourced from the existing website at kerensela.com, suggesting an established personal brand with a professional yet approachable tone tailored to entrepreneurs and business professionals.
 
-Source: https://example.com
+Source: https://karensela.zappy5.app
 
 ---
 
 ## online education programs — קרן סלע
 
-URL: https://example.com
+URL: https://karensela.zappy5.app
 Description: גלה את תוכניות החינוך המקוון המובילות לבעלי עסקים. קרן סלע מציעה קורסים מעשיים שיעזרו לך לצמוח, להצליח ולהגיע לתוצאות אמיתיות. הצטרף עכשיו!
 
 online education programs — קרן סלע
@@ -455,7 +455,7 @@ online education programs — קרן סלע
 
 ## הכירי את הדרך שלנו לחינוך שמשנה חיים — קרן סלע
 
-URL: https://example.com/about
+URL: https://karensela.zappy5.app/about
 Description: קרן סלע היא מותג חינוך מקוון ייחודי שנבנה במיוחד ליזמים ובעלי עסקים. גלה את הסיפור, הערכים והחזון שמניעים אותנו ליצור קורסים שמביאים לשינוי אמיתי ומתמשך.
 
 הכירי את הדרך שלנו לחינוך שמשנה חיים — קרן סלע
@@ -863,7 +863,7 @@ Description: קרן סלע היא מותג חינוך מקוון ייחודי ש
 
 ## תלמידים שהצליחו — הוכחה שהשיטה עובדת — קרן סלע
 
-URL: https://example.com/student-success
+URL: https://karensela.zappy5.app/student-success
 Description: ראה כיצד בעלי עסקים ויזמים שינו את חייהם המקצועיים בזכות תוכניות החינוך המקוון של קרן סלע. סיפורי הצלחה אמיתיים שיעוררו בך השראה ויוכיחו שגם אתה יכול להגיע לתוצאות.
 
 תלמידים שהצליחו — הוכחה שהשיטה עובדת — קרן סלע
@@ -1400,7 +1400,7 @@ Description: ראה כיצד בעלי עסקים ויזמים שינו את חי
 
 ## דבר איתנו ותתחיל את המסע שלך היום — קרן סלע
 
-URL: https://example.com/contact
+URL: https://karensela.zappy5.app/contact
 Description: יש לך שאלות על תוכניות החינוך המקוון של קרן סלע? צור קשר עכשיו וקבל את כל המידע שאתה צריך כדי לבחור את הקורס הנכון לעסק שלך ולהתחיל לצמוח כבר מחר.
 
 דבר איתנו ותתחיל את המסע שלך היום — קרן סלע
@@ -1833,7 +1833,7 @@ Description: יש לך שאלות על תוכניות החינוך המקוון 
 
 ## עגלת קניות
 
-URL: https://example.com/cart
+URL: https://karensela.zappy5.app/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - קרן סלע
@@ -1975,7 +1975,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://example.com/checkout
+URL: https://karensela.zappy5.app/checkout
 Description: תשלום
 
 תשלום - קרן סלע
@@ -2303,7 +2303,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://example.com/login
+URL: https://karensela.zappy5.app/login
 Description: התחברות לקוחות
 
 התחברות - קרן סלע
@@ -2452,7 +2452,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://example.com/account
+URL: https://karensela.zappy5.app/account
 Description: החשבון שלי
 
 החשבון שלי - קרן סלע
@@ -2756,7 +2756,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://example.com/order-success
+URL: https://karensela.zappy5.app/order-success
 Description: תודה שנרשמת לקורס
 
 ההזמנה התקבלה! - קרן סלע
@@ -2922,7 +2922,7 @@ Description: תודה שנרשמת לקורס
 
 ## מדיניות החזרות
 
-URL: https://example.com/return-policy
+URL: https://karensela.zappy5.app/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - קרן סלע
@@ -3117,7 +3117,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://karensela.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3338,7 +3338,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://karensela.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3568,7 +3568,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://karensela.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3817,7 +3817,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## Courses
 
-URL: https://example.com/courses
+URL: https://karensela.zappy5.app/courses
 Description: Browse all available courses.
 
 - קורסים כל הקורסים
@@ -3894,7 +3894,7 @@ Loading courses…
 
 ## Courses
 
-URL: https://example.com/category/:slug
+URL: https://karensela.zappy5.app/category/:slug
 Description: Browse courses in this category.
 
 - קורסים כל הקורסים
@@ -3974,7 +3974,7 @@ Loading courses…
 
 ## Course
 
-URL: https://example.com/courses/:slug
+URL: https://karensela.zappy5.app/courses/:slug
 Description: Course details and curriculum.
 
 - קורסים כל הקורסים
@@ -4071,7 +4071,7 @@ Already enrolled?   Log in
 
 ## Lesson
 
-URL: https://example.com/lesson/:lessonId
+URL: https://karensela.zappy5.app/lesson/:lessonId
 Description: Lesson player.
 
 - קורסים כל הקורסים
@@ -4159,7 +4159,7 @@ Next
 
 ## My Learning
 
-URL: https://example.com/my-learning
+URL: https://karensela.zappy5.app/my-learning
 Description: Your enrolled courses and progress.
 
 - קורסים כל הקורסים
@@ -4239,7 +4239,7 @@ You haven't enrolled in any courses yet.
 
 ## Certificate Verification
 
-URL: https://example.com/certificate/:code
+URL: https://karensela.zappy5.app/certificate/:code
 Description: Verify a course completion certificate.
 
 - קורסים כל הקורסים
@@ -4308,6 +4308,17 @@ Verifying…
 
 מדיניות החזרות
 |   נגישות   |   נוצר באמצעות Zappy
+
+---
+
+## Product Catalog
+
+### קורס התפתחות אישית
+URL: https://karensela.zappy5.app/product/kvrs-htptchvt-ayshyt-9f34cw
+Price: 550.00 ILS (sale, was 690.00 ILS)
+Availability: In stock
+
+כאן יהיה תיאור ארוך
 
 ---
 
