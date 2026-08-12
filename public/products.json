@@ -1,31 +1,8 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-13T17:52:32.413Z",
+  "generated_at": "2026-08-12T07:19:43.648Z",
   "base_url": "https://karensela.zappy5.app",
   "currency": "ILS",
-  "count": 1,
-  "products": [
-    {
-      "id": "231cd0e4-502b-4f94-a60d-72564bbbe625",
-      "slug": "kvrs-htptchvt-ayshyt-5c00i3",
-      "name": "קורס התפתחות אישית",
-      "name_translations": {},
-      "description": "כאן יהיה תיאור ארוך",
-      "short_description": "כאן יהיה תיאור קצר",
-      "sku": null,
-      "brand": null,
-      "price": 0,
-      "base_price": 690,
-      "sale_price": 0,
-      "currency": "ILS",
-      "images": [
-        "https://karensela.zappy5.app/assets/product-1780918273837-plwf2u.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://karensela.zappy5.app/product/kvrs-htptchvt-ayshyt-5c00i3",
-      "categories": [],
-      "updated_at": "2026-06-08T11:39:42.791Z"
-    }
-  ]
+  "count": 0,
+  "products": []
 }
